@@ -1,5 +1,5 @@
 
-// Formatter VND
+
 const formatter = new Intl.NumberFormat('it-IT', {
     style: 'currency',
     currency: 'VND',
@@ -53,7 +53,7 @@ function generateData() {
 }
 
 
-// ========================================= PRODUCT MANAGER ===========================================
+
 
 // Declare form input
 let code = document.getElementById('code');
